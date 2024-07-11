@@ -1,0 +1,114 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.anyfather {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #BB2339;
+  .nav_menu_linklar{
+    text-decoration: none;
+  color: white;
+  }
+}
+.sapien{
+  background-color: #BB2339;
+  display: flex;
+  .popular{
+  text-align: left;
+  padding: 100px;
+
+.Flavour{
+  font-family: Cera Round Pro;
+font-size: 23px;
+font-weight: 700;
+line-height: 29.9px;
+letter-spacing: 0.04em;
+text-align: left;
+width: 271px;
+height: 30px;
+gap: 0px;
+opacity: 0px;
+color: white;
+padding-bottom: 10px;
+}
+.dining{
+  font-family: Cera Round Pro;
+font-size: 90px;
+font-weight: 700;
+line-height: 117px;
+letter-spacing: 0.04em;
+text-align: left;
+width: 555px;
+height: 234px;
+top: 299px;
+left: 310px;
+gap: 0px;
+opacity: 0px;
+color: white;
+}
+.quam{
+  font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0.04em;
+text-align: left;
+width: 453px;
+height: 84px;
+top: 553px;
+left: 310px;
+gap: 0px;
+opacity: 0.7px;
+color: white;
+padding-bottom: 10px ;
+}
+.Explore{
+  width: Hug (173px)px;
+height: Hug (44px)px;
+top: 677px;
+left: 310px;
+padding: 8px 32px 8px 32px;
+gap: 0px;
+border-radius: 100px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+margin-top: 20px;
+background-color: white;
+transition: 2s;
+padding: 10px 20px;
+border-color: red;
+&:hover{
+  background-color: black;
+  color: white;
+}
+}
+}
+}
+.shish{
+  display: flex;
+  justify-content: center;
+  border: #BB2339;
+
+}
+.shavarma{
+  text-align: center;
+  text-decoration: none;
+  .biton{
+    text-decoration: none;
+    color: #BB2339;
+    gap: 50px;
+  }
+}
+.container_21{
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+}
